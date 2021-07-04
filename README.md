@@ -31,7 +31,7 @@ https://www.bilibili.com/video/BV11z4y1z7tQ/
 > 或 https://github.com/openwrt/openwrt.git  （18.06）
 2. 下载应用过滤源码放到OpenWrt的package 目录
 > cd package  
-git clone https://github.com/destan19/OpenAppFilter.git  
+git clone https://github.com/240038901/OpenAppFilter.git  
 cd -
 3. make menuconfig, 在luci app中选上luci oaf app模块并保存 
 4. make V=s 编译出带应用过滤功能的OpenWrt固件   
